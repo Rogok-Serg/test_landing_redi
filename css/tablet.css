@@ -1,0 +1,67 @@
+@media screen and (min-width: 768px) {
+  .container {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  .header-container {
+    justify-content: space-between;
+  }
+  .img_logotype {
+    width: 260px;
+  }
+  .img_link {
+    position: absolute;
+    width: 350px;
+    height: 90px;
+    display: block;
+    top: 0;
+  }
+  .header_link {
+    font-size: 18px;
+    margin-left: 30px;
+  }
+  .order {
+    padding-top: 120px;
+  }
+  .order_title {
+    font-size: 44px;
+  }
+  .all-discription {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .block-description {
+    width: 280px;
+  }
+  .order-text {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .discription-items {
+    width: 320px;
+    height: 240px;
+  }
+  .item-text {
+    font-size: 20px;
+  }
+  .about {
+    padding-bottom: 60px;
+  }
+  .about-title {
+    font-size: 36px;
+  }
+  .results {
+    padding-bottom: 60px;
+  }
+  .results-title {
+    font-size: 36px;
+    margin-bottom: 50px;
+  }
+  .results-text {
+    font-size: 18px;
+    padding: 0 80px;
+  }
+  .results-text:not(:last-child) {
+    margin-bottom: 20px;
+  }
+}
