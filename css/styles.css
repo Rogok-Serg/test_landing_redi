@@ -70,6 +70,9 @@ li {
   text-align: center;
   color: #f9e994;
 }
+.form-input {
+  color: #777;
+}
 .all-discription {
   display: flex;
 }
